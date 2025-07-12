@@ -1,7 +1,7 @@
 
 # NLW Pocket
 
-O NLW Pocket é um projeto desenvolvido durante a Next Level Week (NLW), um evento online da [Rocketseat](https://www.rocketseat.com.br/).
+Projeto desenvolvido durante a Next Level Week (NLW), um evento online da [Rocketseat](https://www.rocketseat.com.br/).
 
 O in.orbit é uma aplicação de gerenciamento de metas diárias, permitindo que os usuários criem metas, acompanhem o progresso e visualizem um resumo semanal.
 
